@@ -11934,3 +11934,6 @@ textarea.form-control {
 .socialicons:hover {
   filter: invert(1);
 }
+html{
+  scroll-behavior: smooth;
+}
